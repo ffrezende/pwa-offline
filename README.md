@@ -1,1 +1,1 @@
-# pwa-offline
+# Exemple Aplication Cache PWA

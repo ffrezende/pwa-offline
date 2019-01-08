@@ -1,1 +1,1 @@
-# Exemple Aplication Cache >PWA<
+# Exemple Aplication Cache >>PWA<<
